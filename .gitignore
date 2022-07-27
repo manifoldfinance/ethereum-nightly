@@ -1,0 +1,14 @@
+__pycache__
+.history
+.hypothesis/
+build/
+reports/
+.DS_Store
+node_modules
+.idea
+*.log
+*.tar.gz
+*.zip
+coverage/
+cache/
+
